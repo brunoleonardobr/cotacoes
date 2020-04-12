@@ -1,10 +1,10 @@
-#Projeto cotações
+# Projeto cotações
 
-#para executar configure as dependências
+# para executar configure as dependências
 `npm i`
 
-#depois
+# depois
 `npm start`
 
-#para acessar digite no navegador
+# para acessar digite no navegador
 `localhost:3000`
