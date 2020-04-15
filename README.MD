@@ -1,11 +1,11 @@
 # Projeto cotações
-###### Projeto feito em NodeJs
+###### Tecnologia usada: NodeJS
 
-# para executar configure as dependências
+## para executar configure as dependências
 `npm i`
 
-# depois
+## iniciar
 `npm start`
 
-# para acessar digite no navegador
+## para acessar digite no navegador
 `localhost:3000`
