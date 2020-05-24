@@ -1,6 +1,6 @@
 const request = require('request')
 
-const api_token = 'PVmJlbfPBQlolCX4kHuJBP0oHAYezYiDMATQvmvRnZk3LVsPcfAHUCO1euKg'
+const api_token = 'api_token'
 
 const cotacao = (symbol,callback) => {
     
